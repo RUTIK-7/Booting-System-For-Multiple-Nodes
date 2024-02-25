@@ -1,0 +1,5 @@
+DOWNLOAD CentOS-7-x86_64-DVD-2009.iso this file and placed in osimages
+
+
+https://centos.mirror.net.in/centos/7.9.2009/isos/x86_64/
+
